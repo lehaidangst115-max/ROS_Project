@@ -1,3 +1,10 @@
+Thành viên nhóm:
+Lê Hải Đăng
+Phan Văn Bảo
+Trịnh Gia Bảo
+Trần Gia Huy
+
+Hướng dẫn chạy:
 1. Chạy world.launch.py, đợi mở map
 2. Chạy spawn_robot.launch.py
 3. Chạy nav2.launch.py
